@@ -1,5 +1,10 @@
-﻿
-
+﻿/*
+ * Student ID :1690704257
+ * Name       :ภัทรวิทย์ อุ่นกำเนิด
+ * Section    :129D
+ * No.        :N/D
+ * Course     : GI113 Computer Programming (GI)
+ */
 namespace Lab05
 {
     internal class Program
